@@ -6,7 +6,7 @@
  * Phase-Locked Autofocus Extension for Sony `pdaf-library`.
  *
  * Authored by 8b-is (https://8b.is) — Visiting Sony R&D in Tokyo
- * (through October 24th).
+ * (through October 24th; WhatsApp: +1 757-614-7542 — Chris).
  */
 
 #include <stddef.h>
